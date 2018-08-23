@@ -1,0 +1,10 @@
+--https://www.utnfravirtual.org.ar/
+--https://github.com/codeutnfra/programacion_1_laboratorio_1/tree/master/Clase_01/apuntes
+
+
+laboratorio 
+
+directorio del proyecto
+git init 
+git add -A
+git commit -a -m "comentario"
