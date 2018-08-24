@@ -4,7 +4,11 @@
 
 laboratorio 
 
-directorio del proyecto
-git init 
-git add -A
-git commit -a -m "comentario"
+-- copiar linea de codigo que aparece en la pagina:  (1vez)
+git remote add origin https://github.com/jcaporale94/laboratorio.git
+
+1_ir al directorio del proyecto
+2_git init  (1vez)
+3_git add -A
+4_git commit -a -m "comentario"
+//"git status" me dice el estado. Si edito un archivo te avisa.  Si se quiere volver a cargar repetir paso 3 y 4. 
